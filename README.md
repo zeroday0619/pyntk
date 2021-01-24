@@ -1,2 +1,2 @@
 # pyntk
-(num-to-korean) python port
+[num-to-korean](https://github.com/huskyhoochu/num-to-korean) python port
